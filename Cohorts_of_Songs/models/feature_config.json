@@ -1,0 +1,19 @@
+{
+    "features": [
+        "acousticness",
+        "danceability",
+        "energy",
+        "instrumentalness",
+        "liveness",
+        "loudness",
+        "speechiness",
+        "tempo",
+        "valence",
+        "popularity",
+        "duration_ms"
+    ],
+    "number_of_features": 11,
+    "scaling": "StandardScaler",
+    "clustering_algorithm": "KMeans",
+    "number_of_clusters": 2
+}
