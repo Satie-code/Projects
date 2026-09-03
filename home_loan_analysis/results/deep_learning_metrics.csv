@@ -1,0 +1,2 @@
+model,accuracy,precision,sensitivity,recall,f1_score,roc_auc,specificity,true_negatives,false_positives,false_negatives,true_positives
+Deep Learning Neural Network,0.6797583081570997,0.6776826597650806,0.6855991943605236,0.6855991943605236,0.6816179415298358,0.7409138693918861,0.6739174219536758,3346,1619,1561,3404

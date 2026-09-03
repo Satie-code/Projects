@@ -1,0 +1,14 @@
+{
+    "model": "Deep Learning Neural Network",
+    "accuracy": 0.6797583081570997,
+    "precision": 0.6776826597650806,
+    "sensitivity": 0.6855991943605236,
+    "recall": 0.6855991943605236,
+    "f1_score": 0.6816179415298358,
+    "roc_auc": 0.7409138693918861,
+    "specificity": 0.6739174219536758,
+    "true_negatives": 3346,
+    "false_positives": 1619,
+    "false_negatives": 1561,
+    "true_positives": 3404
+}
