@@ -1,0 +1,37 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Dataset archives and large raw data
+Part_1/model_training/data/raw/
+Part_1/model_training/data/images/
+Part_2/data/raw/
+
+# Generated model checkpoints and weights
+Part_1/model_training/models/
+Part_2/models/
+
+# Generated outputs (add selected final results to version control if needed)
+Part_1/model_training/data/splits/
+Part_1/model_training/data/validation/
+Part_1/model_training/data/yolo/
