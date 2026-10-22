@@ -1,6 +1,7 @@
 # Virtual environments
 .venv-tf/
 .venv/
+.venv*/
 venv/
 env/
 
@@ -8,12 +9,41 @@ env/
 __pycache__/
 *.py[cod]
 *.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
 .ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
 
 # OS
 .DS_Store
 Thumbs.db
 
+# Temporary files and logs
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
 # Secrets
 .env
+.env.*
 *.env
+!.env.example
+!.env.template
+
+# Generated machine-learning experiment output
+runs/
+wandb/
+mlruns/
+lightning_logs/
+tensorboard/
