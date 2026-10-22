@@ -1,0 +1,12 @@
+class,false_positives,false_negatives,total_errors
+car,718,104,822
+motorized_vehicle,233,97,330
+pickup_truck,149,47,196
+single_unit_truck,46,32,78
+pedestrian,57,18,75
+work_van,36,36,72
+articulated_truck,32,14,46
+non-motorized_vehicle,14,15,29
+bus,20,5,25
+motorcycle,15,2,17
+bicycle,12,4,16

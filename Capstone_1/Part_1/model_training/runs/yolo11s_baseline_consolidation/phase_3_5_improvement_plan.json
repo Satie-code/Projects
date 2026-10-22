@@ -1,0 +1,32 @@
+{
+    "objective": "Improve validation performance while preserving a controlled experimental methodology.",
+    "baseline_reference": {
+        "model": "YOLO11s",
+        "validation_mAP50_95": 0.51457,
+        "test_mAP50_95": 0.4707028240219258
+    },
+    "highest_priority_areas": [
+        "Small-object detection",
+        "Weak minority classes",
+        "False-positive reduction",
+        "False-negative reduction",
+        "Validation-to-test generalization"
+    ],
+    "recommended_sequence": [
+        "EXP_01 \u2014 Higher Resolution",
+        "EXP_02 \u2014 Augmentation Study",
+        "EXP_03 \u2014 Model Capacity",
+        "EXP_04 \u2014 Inference Threshold Study",
+        "EXP_05 \u2014 Targeted Data Review"
+    ],
+    "selection_policy": {
+        "primary_metric": "validation mAP50-95",
+        "secondary_metrics": [
+            "precision",
+            "recall",
+            "per-class mAP50-95",
+            "small-object performance"
+        ],
+        "test_set_policy": "Held-out test set remains untouched until final model selection."
+    }
+}

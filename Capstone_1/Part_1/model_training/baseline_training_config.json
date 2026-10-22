@@ -1,0 +1,22 @@
+{
+    "model": "yolo11s.pt",
+    "dataset": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\dataset.yaml",
+    "device": 0,
+    "imgsz": 640,
+    "epochs": 100,
+    "batch": 8,
+    "workers": 4,
+    "patience": 20,
+    "pretrained": true,
+    "cache": false,
+    "plots": true,
+    "save": true,
+    "val": true,
+    "verbose": true,
+    "project": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\runs",
+    "name": "yolo11s_baseline_gpu",
+    "exist_ok": false,
+    "amp": true,
+    "seed": 42,
+    "deterministic": true
+}

@@ -1,0 +1,42 @@
+{
+    "experiment_id": "EXP_01",
+    "experiment_name": "yolo11s_exp01_768",
+    "baseline": {
+        "model": "YOLO11s",
+        "imgsz": 640,
+        "batch": 8,
+        "epochs": 100
+    },
+    "change": {
+        "imgsz": 768,
+        "batch": 4
+    },
+    "hypothesis": "Higher spatial resolution may improve small-object detection and localization.",
+    "primary_metric": "validation mAP50-95",
+    "secondary_metrics": [
+        "validation mAP50",
+        "precision",
+        "recall",
+        "small-object mAP50-95",
+        "per-class mAP50-95",
+        "GPU memory",
+        "training time",
+        "best epoch"
+    ],
+    "dataset": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\dataset.yaml",
+    "device": 0,
+    "epochs": 100,
+    "imgsz": 768,
+    "batch": 4,
+    "workers": 4,
+    "patience": 20,
+    "pretrained": true,
+    "cache": false,
+    "plots": true,
+    "save": true,
+    "val": true,
+    "verbose": true,
+    "amp": true,
+    "seed": 42,
+    "deterministic": true
+}

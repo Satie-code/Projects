@@ -1,0 +1,170 @@
+{
+    "phase": "3.5",
+    "title": "Baseline Consolidation & Improvement Strategy",
+    "baseline": {
+        "model": "YOLO11s",
+        "checkpoint": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\runs\\yolo11s_baseline_gpu\\weights\\best.pt",
+        "best_validation_epoch": 64,
+        "best_validation": {
+            "precision": 0.71944,
+            "recall": 0.66837,
+            "mAP50": 0.6971,
+            "mAP50-95": 0.51457
+        },
+        "held_out_test": {
+            "precision": 0.672811268273744,
+            "recall": 0.6079447305534715,
+            "mAP50": 0.6442609700367128,
+            "mAP50-95": 0.4707028240219258
+        }
+    },
+    "generalization_gap": {
+        "precision": 0.04662873172625592,
+        "recall": 0.060425269446528485,
+        "mAP50": 0.052839029963287265,
+        "mAP50-95": 0.04386717597807416
+    },
+    "global_error_profile": {
+        "ground_truth_boxes": 2725,
+        "predictions": 3683,
+        "true_positives": 2351,
+        "false_positives": 1332,
+        "false_negatives": 374
+    },
+    "object_size_map50_95": {
+        "small": 0.296,
+        "medium": 0.47,
+        "large": 0.676
+    },
+    "low_recall_classes": [
+        "work_van",
+        "single_unit_truck",
+        "motorized_vehicle",
+        "non-motorized_vehicle"
+    ],
+    "low_map50_95_classes": [
+        "single_unit_truck",
+        "pedestrian",
+        "motorized_vehicle",
+        "non-motorized_vehicle"
+    ],
+    "priorities": [
+        {
+            "priority": 1,
+            "area": "Small-object detection",
+            "evidence": "Small-object mAP50-95 is substantially below medium and large-object performance.",
+            "candidate_interventions": [
+                "Increase image size",
+                "Evaluate stronger scale/crop augmentation",
+                "Inspect small-object annotations",
+                "Evaluate model capacity"
+            ]
+        },
+        {
+            "priority": 2,
+            "area": "Weak minority classes",
+            "evidence": "Several classes have recall below 0.50 and/or mAP50-95 below 0.30.",
+            "candidate_interventions": [
+                "Inspect class-specific training examples",
+                "Review annotation consistency",
+                "Evaluate augmentation",
+                "Evaluate class distribution"
+            ]
+        },
+        {
+            "priority": 3,
+            "area": "False positives",
+            "evidence": "1332 false positives were observed against 2351 true positives.",
+            "candidate_interventions": [
+                "Inspect FP-heavy images",
+                "Evaluate confidence threshold",
+                "Evaluate NMS settings",
+                "Investigate visually similar classes"
+            ]
+        },
+        {
+            "priority": 4,
+            "area": "False negatives",
+            "evidence": "374 ground-truth objects were missed.",
+            "candidate_interventions": [
+                "Inspect FN-heavy images",
+                "Increase input resolution",
+                "Evaluate augmentation",
+                "Investigate small and occluded objects"
+            ]
+        },
+        {
+            "priority": 5,
+            "area": "Validation-to-test generalization",
+            "evidence": "Held-out test performance is below the best validation performance.",
+            "candidate_interventions": [
+                "Review augmentation",
+                "Review model regularization",
+                "Compare controlled training configurations"
+            ]
+        }
+    ],
+    "experiment_rules": [
+        "Use the same train/validation/test split for all experiments.",
+        "Do not use the held-out test set for hyperparameter selection.",
+        "Change one major experimental factor at a time whenever practical.",
+        "Keep the baseline YOLO11s result as the reference experiment.",
+        "Record seed, model, image size, batch size, epochs, optimizer settings, augmentation settings and hardware for every experiment.",
+        "Compare validation mAP50-95 as the primary model-selection metric.",
+        "Use precision, recall and per-class metrics as supporting diagnostics.",
+        "Evaluate the final selected model once on the held-out test set.",
+        "Do not overwrite the baseline run directory."
+    ],
+    "experiments": [
+        {
+            "experiment_id": "EXP_01",
+            "name": "Higher Resolution",
+            "baseline": "640",
+            "change": "imgsz=768",
+            "primary_hypothesis": "Higher spatial resolution may improve small-object detection.",
+            "primary_metric": "validation mAP50-95",
+            "secondary_metrics": "small-object performance, recall, GPU memory",
+            "status": "PLANNED"
+        },
+        {
+            "experiment_id": "EXP_02",
+            "name": "Augmentation Study",
+            "baseline": "Baseline augmentation",
+            "change": "Controlled augmentation adjustment",
+            "primary_hypothesis": "Improved augmentation may improve generalization.",
+            "primary_metric": "validation mAP50-95",
+            "secondary_metrics": "precision, recall, per-class mAP50-95",
+            "status": "PLANNED"
+        },
+        {
+            "experiment_id": "EXP_03",
+            "name": "Model Capacity",
+            "baseline": "YOLO11s",
+            "change": "Controlled larger/smaller model comparison",
+            "primary_hypothesis": "Model capacity may affect minority and small-object detection.",
+            "primary_metric": "validation mAP50-95",
+            "secondary_metrics": "inference speed, GPU memory, per-class performance",
+            "status": "PLANNED"
+        },
+        {
+            "experiment_id": "EXP_04",
+            "name": "Inference Threshold Study",
+            "baseline": "Default validation threshold",
+            "change": "Evaluate confidence/NMS thresholds on validation data",
+            "primary_hypothesis": "Post-training threshold selection may alter precision/recall trade-offs.",
+            "primary_metric": "validation precision/recall",
+            "secondary_metrics": "mAP50-95, FP/FN counts",
+            "status": "PLANNED"
+        },
+        {
+            "experiment_id": "EXP_05",
+            "name": "Targeted Data Review",
+            "baseline": "Current clean dataset",
+            "change": "Review weak-class and hard-image annotations",
+            "primary_hypothesis": "Annotation/data-quality issues may contribute to weak-class performance.",
+            "primary_metric": "validation mAP50-95",
+            "secondary_metrics": "per-class recall and mAP50-95",
+            "status": "PLANNED"
+        }
+    ]
+}

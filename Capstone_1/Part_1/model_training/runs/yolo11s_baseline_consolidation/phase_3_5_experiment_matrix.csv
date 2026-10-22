@@ -1,0 +1,6 @@
+experiment_id,name,baseline,change,primary_hypothesis,primary_metric,secondary_metrics,status
+EXP_01,Higher Resolution,640,imgsz=768,Higher spatial resolution may improve small-object detection.,validation mAP50-95,"small-object performance, recall, GPU memory",PLANNED
+EXP_02,Augmentation Study,Baseline augmentation,Controlled augmentation adjustment,Improved augmentation may improve generalization.,validation mAP50-95,"precision, recall, per-class mAP50-95",PLANNED
+EXP_03,Model Capacity,YOLO11s,Controlled larger/smaller model comparison,Model capacity may affect minority and small-object detection.,validation mAP50-95,"inference speed, GPU memory, per-class performance",PLANNED
+EXP_04,Inference Threshold Study,Default validation threshold,Evaluate confidence/NMS thresholds on validation data,Post-training threshold selection may alter precision/recall trade-offs.,validation precision/recall,"mAP50-95, FP/FN counts",PLANNED
+EXP_05,Targeted Data Review,Current clean dataset,Review weak-class and hard-image annotations,Annotation/data-quality issues may contribute to weak-class performance.,validation mAP50-95,per-class recall and mAP50-95,PLANNED

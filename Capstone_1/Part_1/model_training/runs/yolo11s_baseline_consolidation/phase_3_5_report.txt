@@ -1,0 +1,60 @@
+======================================================================
+PHASE 3.5 — BASELINE CONSOLIDATION REPORT
+======================================================================
+
+BASELINE MODEL
+YOLO11s
+
+Best validation epoch: 64
+Best validation mAP50: 0.697100
+Best validation mAP50-95: 0.514570
+Test mAP50: 0.644261
+Test mAP50-95: 0.470703
+
+GENERALIZATION GAP
+mAP50 gap: 0.052839
+mAP50-95 gap: 0.043867
+
+GLOBAL ERROR PROFILE
+Ground-truth boxes: 2725
+Predictions: 3683
+True positives: 2351
+False positives: 1332
+False negatives: 374
+
+OBJECT SIZE PERFORMANCE
+Small: 0.296
+Medium: 0.470
+Large: 0.676
+
+LOW-RECALL CLASSES
+- work_van
+- single_unit_truck
+- motorized_vehicle
+- non-motorized_vehicle
+
+LOW mAP50-95 CLASSES
+- single_unit_truck
+- pedestrian
+- motorized_vehicle
+- non-motorized_vehicle
+
+NEXT EXPERIMENTS
+- EXP_01: Higher Resolution
+- EXP_02: Augmentation Study
+- EXP_03: Model Capacity
+- EXP_04: Inference Threshold Study
+- EXP_05: Targeted Data Review
+
+METHODOLOGY RULES
+- Use the same train/validation/test split for all experiments.
+- Do not use the held-out test set for hyperparameter selection.
+- Change one major experimental factor at a time whenever practical.
+- Keep the baseline YOLO11s result as the reference experiment.
+- Record seed, model, image size, batch size, epochs, optimizer settings, augmentation settings and hardware for every experiment.
+- Compare validation mAP50-95 as the primary model-selection metric.
+- Use precision, recall and per-class metrics as supporting diagnostics.
+- Evaluate the final selected model once on the held-out test set.
+- Do not overwrite the baseline run directory.
+
+PHASE 3.5 COMPLETE

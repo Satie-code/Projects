@@ -1,0 +1,92 @@
+{
+    "phase": "3.4",
+    "model": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\runs\\yolo11s_baseline_gpu\\weights\\best.pt",
+    "dataset": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\dataset.yaml",
+    "test_images": 844,
+    "configuration": {
+        "confidence_threshold": 0.05,
+        "iou_match_threshold": 0.5,
+        "image_size": 640
+    },
+    "global_statistics": {
+        "ground_truth_boxes": 2725,
+        "predictions": 3683,
+        "true_positives": 2351,
+        "false_positives": 1332,
+        "false_negatives": 374,
+        "total_errors": 1706
+    },
+    "image_statistics": {
+        "images_with_false_positives": 510,
+        "images_with_false_negatives": 250,
+        "images_with_errors": 521
+    },
+    "class_errors": [
+        {
+            "class": "car",
+            "false_positives": 718,
+            "false_negatives": 104,
+            "total_errors": 822
+        },
+        {
+            "class": "motorized_vehicle",
+            "false_positives": 233,
+            "false_negatives": 97,
+            "total_errors": 330
+        },
+        {
+            "class": "pickup_truck",
+            "false_positives": 149,
+            "false_negatives": 47,
+            "total_errors": 196
+        },
+        {
+            "class": "single_unit_truck",
+            "false_positives": 46,
+            "false_negatives": 32,
+            "total_errors": 78
+        },
+        {
+            "class": "pedestrian",
+            "false_positives": 57,
+            "false_negatives": 18,
+            "total_errors": 75
+        },
+        {
+            "class": "work_van",
+            "false_positives": 36,
+            "false_negatives": 36,
+            "total_errors": 72
+        },
+        {
+            "class": "articulated_truck",
+            "false_positives": 32,
+            "false_negatives": 14,
+            "total_errors": 46
+        },
+        {
+            "class": "non-motorized_vehicle",
+            "false_positives": 14,
+            "false_negatives": 15,
+            "total_errors": 29
+        },
+        {
+            "class": "bus",
+            "false_positives": 20,
+            "false_negatives": 5,
+            "total_errors": 25
+        },
+        {
+            "class": "motorcycle",
+            "false_positives": 15,
+            "false_negatives": 2,
+            "total_errors": 17
+        },
+        {
+            "class": "bicycle",
+            "false_positives": 12,
+            "false_negatives": 4,
+            "total_errors": 16
+        }
+    ]
+}

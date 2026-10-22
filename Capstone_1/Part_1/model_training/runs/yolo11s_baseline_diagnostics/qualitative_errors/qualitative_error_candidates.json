@@ -1,0 +1,4305 @@
+[
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000030.jpg",
+    "gt_count": 2,
+    "pred_count": 4,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000035.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      7
+    ],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000051.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000053.jpg",
+    "gt_count": 3,
+    "pred_count": 9,
+    "count_difference": 6,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000057.jpg",
+    "gt_count": 2,
+    "pred_count": 8,
+    "count_difference": 6,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000063.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000113.jpg",
+    "gt_count": 6,
+    "pred_count": 7,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000124.jpg",
+    "gt_count": 3,
+    "pred_count": 9,
+    "count_difference": 6,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000133.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      6
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000145.jpg",
+    "gt_count": 8,
+    "pred_count": 8,
+    "count_difference": 0,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000161.jpg",
+    "gt_count": 7,
+    "pred_count": 22,
+    "count_difference": 15,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000217.jpg",
+    "gt_count": 3,
+    "pred_count": 3,
+    "count_difference": 0,
+    "missing_classes": [
+      7,
+      9
+    ],
+    "unexpected_classes": [
+      4
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000219.jpg",
+    "gt_count": 5,
+    "pred_count": 11,
+    "count_difference": 6,
+    "missing_classes": [
+      7
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000237.jpg",
+    "gt_count": 8,
+    "pred_count": 13,
+    "count_difference": 5,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000250.jpg",
+    "gt_count": 6,
+    "pred_count": 7,
+    "count_difference": 1,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000260.jpg",
+    "gt_count": 3,
+    "pred_count": 5,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000272.jpg",
+    "gt_count": 4,
+    "pred_count": 5,
+    "count_difference": 1,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000275.jpg",
+    "gt_count": 3,
+    "pred_count": 7,
+    "count_difference": 4,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000330.jpg",
+    "gt_count": 2,
+    "pred_count": 4,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000333.jpg",
+    "gt_count": 7,
+    "pred_count": 12,
+    "count_difference": 5,
+    "missing_classes": [],
+    "unexpected_classes": [
+      9
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000345.jpg",
+    "gt_count": 3,
+    "pred_count": 6,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000368.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000372.jpg",
+    "gt_count": 4,
+    "pred_count": 5,
+    "count_difference": 1,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000403.jpg",
+    "gt_count": 7,
+    "pred_count": 7,
+    "count_difference": 0,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000416.jpg",
+    "gt_count": 5,
+    "pred_count": 12,
+    "count_difference": 7,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000435.jpg",
+    "gt_count": 5,
+    "pred_count": 11,
+    "count_difference": 6,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000470.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000504.jpg",
+    "gt_count": 6,
+    "pred_count": 9,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000531.jpg",
+    "gt_count": 6,
+    "pred_count": 14,
+    "count_difference": 8,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000539.jpg",
+    "gt_count": 5,
+    "pred_count": 14,
+    "count_difference": 9,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000540.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000560.jpg",
+    "gt_count": 5,
+    "pred_count": 9,
+    "count_difference": 4,
+    "missing_classes": [],
+    "unexpected_classes": [
+      9
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000570.jpg",
+    "gt_count": 4,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000573.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000594.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000595.jpg",
+    "gt_count": 4,
+    "pred_count": 5,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000634.jpg",
+    "gt_count": 4,
+    "pred_count": 5,
+    "count_difference": 1,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000635.jpg",
+    "gt_count": 14,
+    "pred_count": 17,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000637.jpg",
+    "gt_count": 6,
+    "pred_count": 9,
+    "count_difference": 3,
+    "missing_classes": [
+      4
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000645.jpg",
+    "gt_count": 4,
+    "pred_count": 7,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0,
+      3
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000651.jpg",
+    "gt_count": 4,
+    "pred_count": 4,
+    "count_difference": 0,
+    "missing_classes": [
+      6
+    ],
+    "unexpected_classes": [
+      8
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000666.jpg",
+    "gt_count": 5,
+    "pred_count": 6,
+    "count_difference": 1,
+    "missing_classes": [
+      7
+    ],
+    "unexpected_classes": [
+      4
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000672.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [
+      0
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000716.jpg",
+    "gt_count": 6,
+    "pred_count": 7,
+    "count_difference": 1,
+    "missing_classes": [
+      7
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000741.jpg",
+    "gt_count": 4,
+    "pred_count": 7,
+    "count_difference": 3,
+    "missing_classes": [
+      9
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000782.jpg",
+    "gt_count": 4,
+    "pred_count": 9,
+    "count_difference": 5,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000839.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000841.jpg",
+    "gt_count": 3,
+    "pred_count": 6,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000847.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000849.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000863.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000872.jpg",
+    "gt_count": 2,
+    "pred_count": 7,
+    "count_difference": 5,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1,
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000901.jpg",
+    "gt_count": 12,
+    "pred_count": 15,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000907.jpg",
+    "gt_count": 3,
+    "pred_count": 5,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000922.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000936.jpg",
+    "gt_count": 4,
+    "pred_count": 8,
+    "count_difference": 4,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000938.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000942.jpg",
+    "gt_count": 11,
+    "pred_count": 25,
+    "count_difference": 14,
+    "missing_classes": [
+      4
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000964.jpg",
+    "gt_count": 5,
+    "pred_count": 7,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1,
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000980.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00000995.jpg",
+    "gt_count": 6,
+    "pred_count": 7,
+    "count_difference": 1,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001002.jpg",
+    "gt_count": 14,
+    "pred_count": 33,
+    "count_difference": 19,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001014.jpg",
+    "gt_count": 2,
+    "pred_count": 5,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001022.jpg",
+    "gt_count": 6,
+    "pred_count": 6,
+    "count_difference": 0,
+    "missing_classes": [
+      7
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001031.jpg",
+    "gt_count": 4,
+    "pred_count": 7,
+    "count_difference": 3,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001058.jpg",
+    "gt_count": 4,
+    "pred_count": 5,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001068.jpg",
+    "gt_count": 4,
+    "pred_count": 6,
+    "count_difference": 2,
+    "missing_classes": [
+      7
+    ],
+    "unexpected_classes": [
+      2,
+      9
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001093.jpg",
+    "gt_count": 7,
+    "pred_count": 20,
+    "count_difference": 13,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001097.jpg",
+    "gt_count": 6,
+    "pred_count": 9,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001102.jpg",
+    "gt_count": 3,
+    "pred_count": 7,
+    "count_difference": 4,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001104.jpg",
+    "gt_count": 9,
+    "pred_count": 12,
+    "count_difference": 3,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001125.jpg",
+    "gt_count": 4,
+    "pred_count": 6,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001162.jpg",
+    "gt_count": 3,
+    "pred_count": 6,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1,
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001171.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001186.jpg",
+    "gt_count": 6,
+    "pred_count": 7,
+    "count_difference": 1,
+    "missing_classes": [
+      7
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001219.jpg",
+    "gt_count": 7,
+    "pred_count": 9,
+    "count_difference": 2,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001224.jpg",
+    "gt_count": 9,
+    "pred_count": 21,
+    "count_difference": 12,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001244.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      0
+    ],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001245.jpg",
+    "gt_count": 1,
+    "pred_count": 5,
+    "count_difference": 4,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001261.jpg",
+    "gt_count": 3,
+    "pred_count": 5,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2,
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001286.jpg",
+    "gt_count": 3,
+    "pred_count": 3,
+    "count_difference": 0,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001295.jpg",
+    "gt_count": 4,
+    "pred_count": 16,
+    "count_difference": 12,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2,
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001308.jpg",
+    "gt_count": 4,
+    "pred_count": 7,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001340.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001357.jpg",
+    "gt_count": 4,
+    "pred_count": 9,
+    "count_difference": 5,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001367.jpg",
+    "gt_count": 1,
+    "pred_count": 4,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001394.jpg",
+    "gt_count": 4,
+    "pred_count": 4,
+    "count_difference": 0,
+    "missing_classes": [
+      4
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001403.jpg",
+    "gt_count": 3,
+    "pred_count": 5,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001414.jpg",
+    "gt_count": 4,
+    "pred_count": 5,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001437.jpg",
+    "gt_count": 3,
+    "pred_count": 5,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001446.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001472.jpg",
+    "gt_count": 8,
+    "pred_count": 10,
+    "count_difference": 2,
+    "missing_classes": [
+      6
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001489.jpg",
+    "gt_count": 5,
+    "pred_count": 5,
+    "count_difference": 0,
+    "missing_classes": [
+      7
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001498.jpg",
+    "gt_count": 3,
+    "pred_count": 5,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001503.jpg",
+    "gt_count": 3,
+    "pred_count": 3,
+    "count_difference": 0,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001510.jpg",
+    "gt_count": 5,
+    "pred_count": 9,
+    "count_difference": 4,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001542.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [
+      7
+    ],
+    "unexpected_classes": [
+      3,
+      4
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001548.jpg",
+    "gt_count": 4,
+    "pred_count": 6,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      4,
+      9
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001551.jpg",
+    "gt_count": 6,
+    "pred_count": 9,
+    "count_difference": 3,
+    "missing_classes": [
+      2,
+      9
+    ],
+    "unexpected_classes": [
+      3,
+      4,
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001564.jpg",
+    "gt_count": 4,
+    "pred_count": 5,
+    "count_difference": 1,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001574.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      5,
+      9
+    ],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001582.jpg",
+    "gt_count": 7,
+    "pred_count": 12,
+    "count_difference": 5,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001604.jpg",
+    "gt_count": 7,
+    "pred_count": 9,
+    "count_difference": 2,
+    "missing_classes": [
+      6
+    ],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001609.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001610.jpg",
+    "gt_count": 6,
+    "pred_count": 9,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001612.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      10
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001630.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      10
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001631.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001639.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001673.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001680.jpg",
+    "gt_count": 7,
+    "pred_count": 18,
+    "count_difference": 11,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001691.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001731.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": [
+      1,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001745.jpg",
+    "gt_count": 2,
+    "pred_count": 7,
+    "count_difference": 5,
+    "missing_classes": [
+      7
+    ],
+    "unexpected_classes": [
+      0,
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001747.jpg",
+    "gt_count": 4,
+    "pred_count": 5,
+    "count_difference": 1,
+    "missing_classes": [
+      9
+    ],
+    "unexpected_classes": [
+      4,
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001749.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001760.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001775.jpg",
+    "gt_count": 2,
+    "pred_count": 4,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001803.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      0
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001834.jpg",
+    "gt_count": 5,
+    "pred_count": 8,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001844.jpg",
+    "gt_count": 13,
+    "pred_count": 20,
+    "count_difference": 7,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001854.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001859.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      0
+    ],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001893.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      0,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001894.jpg",
+    "gt_count": 13,
+    "pred_count": 24,
+    "count_difference": 11,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001900.jpg",
+    "gt_count": 8,
+    "pred_count": 11,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001905.jpg",
+    "gt_count": 3,
+    "pred_count": 5,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001907.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001915.jpg",
+    "gt_count": 10,
+    "pred_count": 49,
+    "count_difference": 39,
+    "missing_classes": [
+      7
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001957.jpg",
+    "gt_count": 7,
+    "pred_count": 8,
+    "count_difference": 1,
+    "missing_classes": [
+      0
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00001973.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002040.jpg",
+    "gt_count": 3,
+    "pred_count": 18,
+    "count_difference": 15,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002061.jpg",
+    "gt_count": 6,
+    "pred_count": 8,
+    "count_difference": 2,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": [
+      7,
+      10
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002078.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002093.jpg",
+    "gt_count": 8,
+    "pred_count": 13,
+    "count_difference": 5,
+    "missing_classes": [],
+    "unexpected_classes": [
+      6,
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002095.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      5,
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002130.jpg",
+    "gt_count": 4,
+    "pred_count": 5,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002138.jpg",
+    "gt_count": 7,
+    "pred_count": 8,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002142.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002144.jpg",
+    "gt_count": 3,
+    "pred_count": 3,
+    "count_difference": 0,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002157.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [
+      7
+    ],
+    "unexpected_classes": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002169.jpg",
+    "gt_count": 8,
+    "pred_count": 17,
+    "count_difference": 9,
+    "missing_classes": [],
+    "unexpected_classes": [
+      4,
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002172.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002179.jpg",
+    "gt_count": 4,
+    "pred_count": 5,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002180.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002183.jpg",
+    "gt_count": 3,
+    "pred_count": 6,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      5,
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002193.jpg",
+    "gt_count": 10,
+    "pred_count": 25,
+    "count_difference": 15,
+    "missing_classes": [
+      9
+    ],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002219.jpg",
+    "gt_count": 5,
+    "pred_count": 16,
+    "count_difference": 11,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002231.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002237.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002256.jpg",
+    "gt_count": 22,
+    "pred_count": 34,
+    "count_difference": 12,
+    "missing_classes": [],
+    "unexpected_classes": [
+      3
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002280.jpg",
+    "gt_count": 8,
+    "pred_count": 10,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002282.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      0
+    ],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002283.jpg",
+    "gt_count": 1,
+    "pred_count": 4,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002310.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      4
+    ],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002336.jpg",
+    "gt_count": 6,
+    "pred_count": 12,
+    "count_difference": 6,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": [
+      3,
+      4,
+      8
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002343.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002349.jpg",
+    "gt_count": 5,
+    "pred_count": 6,
+    "count_difference": 1,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002371.jpg",
+    "gt_count": 5,
+    "pred_count": 19,
+    "count_difference": 14,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002386.jpg",
+    "gt_count": 4,
+    "pred_count": 8,
+    "count_difference": 4,
+    "missing_classes": [
+      1,
+      2
+    ],
+    "unexpected_classes": [
+      4
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002395.jpg",
+    "gt_count": 6,
+    "pred_count": 7,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002402.jpg",
+    "gt_count": 5,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002406.jpg",
+    "gt_count": 2,
+    "pred_count": 5,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002416.jpg",
+    "gt_count": 3,
+    "pred_count": 8,
+    "count_difference": 5,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2,
+      6
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002430.jpg",
+    "gt_count": 2,
+    "pred_count": 1,
+    "count_difference": 1,
+    "missing_classes": [
+      9
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002434.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002446.jpg",
+    "gt_count": 4,
+    "pred_count": 4,
+    "count_difference": 0,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002456.jpg",
+    "gt_count": 7,
+    "pred_count": 8,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002498.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002527.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002547.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002553.jpg",
+    "gt_count": 5,
+    "pred_count": 9,
+    "count_difference": 4,
+    "missing_classes": [],
+    "unexpected_classes": [
+      4
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002589.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002592.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002598.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002611.jpg",
+    "gt_count": 2,
+    "pred_count": 5,
+    "count_difference": 3,
+    "missing_classes": [
+      8
+    ],
+    "unexpected_classes": [
+      6,
+      10
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002619.jpg",
+    "gt_count": 4,
+    "pred_count": 12,
+    "count_difference": 8,
+    "missing_classes": [],
+    "unexpected_classes": [
+      7,
+      10
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002637.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002638.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002644.jpg",
+    "gt_count": 8,
+    "pred_count": 9,
+    "count_difference": 1,
+    "missing_classes": [
+      2,
+      7
+    ],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002645.jpg",
+    "gt_count": 6,
+    "pred_count": 8,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      6
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002651.jpg",
+    "gt_count": 2,
+    "pred_count": 4,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002662.jpg",
+    "gt_count": 5,
+    "pred_count": 8,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002688.jpg",
+    "gt_count": 5,
+    "pred_count": 6,
+    "count_difference": 1,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002722.jpg",
+    "gt_count": 6,
+    "pred_count": 13,
+    "count_difference": 7,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002725.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      0
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002734.jpg",
+    "gt_count": 2,
+    "pred_count": 4,
+    "count_difference": 2,
+    "missing_classes": [
+      4
+    ],
+    "unexpected_classes": [
+      3,
+      6,
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002746.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002760.jpg",
+    "gt_count": 8,
+    "pred_count": 9,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002772.jpg",
+    "gt_count": 9,
+    "pred_count": 20,
+    "count_difference": 11,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002780.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002801.jpg",
+    "gt_count": 5,
+    "pred_count": 7,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002817.jpg",
+    "gt_count": 2,
+    "pred_count": 11,
+    "count_difference": 9,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002846.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002853.jpg",
+    "gt_count": 6,
+    "pred_count": 14,
+    "count_difference": 8,
+    "missing_classes": [],
+    "unexpected_classes": [
+      4
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002856.jpg",
+    "gt_count": 2,
+    "pred_count": 4,
+    "count_difference": 2,
+    "missing_classes": [
+      1,
+      5
+    ],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002871.jpg",
+    "gt_count": 3,
+    "pred_count": 5,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002875.jpg",
+    "gt_count": 6,
+    "pred_count": 9,
+    "count_difference": 3,
+    "missing_classes": [
+      10
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002893.jpg",
+    "gt_count": 13,
+    "pred_count": 12,
+    "count_difference": 1,
+    "missing_classes": [
+      4,
+      9
+    ],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002908.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002909.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0,
+      8
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002959.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00002983.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003010.jpg",
+    "gt_count": 3,
+    "pred_count": 5,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003014.jpg",
+    "gt_count": 4,
+    "pred_count": 5,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003033.jpg",
+    "gt_count": 4,
+    "pred_count": 4,
+    "count_difference": 0,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003035.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      9
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003038.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003047.jpg",
+    "gt_count": 4,
+    "pred_count": 6,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003092.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003095.jpg",
+    "gt_count": 3,
+    "pred_count": 5,
+    "count_difference": 2,
+    "missing_classes": [
+      4
+    ],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003103.jpg",
+    "gt_count": 2,
+    "pred_count": 5,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003113.jpg",
+    "gt_count": 4,
+    "pred_count": 9,
+    "count_difference": 5,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003150.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      0
+    ],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003182.jpg",
+    "gt_count": 3,
+    "pred_count": 5,
+    "count_difference": 2,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": [
+      4,
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003196.jpg",
+    "gt_count": 3,
+    "pred_count": 6,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003216.jpg",
+    "gt_count": 7,
+    "pred_count": 16,
+    "count_difference": 9,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003228.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003229.jpg",
+    "gt_count": 4,
+    "pred_count": 6,
+    "count_difference": 2,
+    "missing_classes": [
+      9
+    ],
+    "unexpected_classes": [
+      1,
+      4
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003334.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003338.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003350.jpg",
+    "gt_count": 3,
+    "pred_count": 5,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003352.jpg",
+    "gt_count": 10,
+    "pred_count": 17,
+    "count_difference": 7,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003372.jpg",
+    "gt_count": 11,
+    "pred_count": 13,
+    "count_difference": 2,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003385.jpg",
+    "gt_count": 5,
+    "pred_count": 8,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003413.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003427.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      4
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003431.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003434.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003444.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003445.jpg",
+    "gt_count": 3,
+    "pred_count": 6,
+    "count_difference": 3,
+    "missing_classes": [
+      0
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003459.jpg",
+    "gt_count": 11,
+    "pred_count": 7,
+    "count_difference": 4,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003468.jpg",
+    "gt_count": 22,
+    "pred_count": 30,
+    "count_difference": 8,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003496.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": [
+      2,
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003513.jpg",
+    "gt_count": 13,
+    "pred_count": 17,
+    "count_difference": 4,
+    "missing_classes": [],
+    "unexpected_classes": [
+      6
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003529.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      0,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003531.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003535.jpg",
+    "gt_count": 5,
+    "pred_count": 5,
+    "count_difference": 0,
+    "missing_classes": [
+      9
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003570.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003600.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003608.jpg",
+    "gt_count": 7,
+    "pred_count": 7,
+    "count_difference": 0,
+    "missing_classes": [
+      0
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003619.jpg",
+    "gt_count": 5,
+    "pred_count": 6,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003632.jpg",
+    "gt_count": 6,
+    "pred_count": 9,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003645.jpg",
+    "gt_count": 4,
+    "pred_count": 10,
+    "count_difference": 6,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003664.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003666.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003684.jpg",
+    "gt_count": 2,
+    "pred_count": 4,
+    "count_difference": 2,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": [
+      0,
+      3
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003687.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [
+      1,
+      8
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003701.jpg",
+    "gt_count": 23,
+    "pred_count": 35,
+    "count_difference": 12,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003713.jpg",
+    "gt_count": 3,
+    "pred_count": 5,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003715.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003716.jpg",
+    "gt_count": 5,
+    "pred_count": 5,
+    "count_difference": 0,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003734.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [
+      2,
+      7
+    ],
+    "unexpected_classes": [
+      1,
+      4
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003735.jpg",
+    "gt_count": 6,
+    "pred_count": 8,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1,
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003749.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003757.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003777.jpg",
+    "gt_count": 6,
+    "pred_count": 7,
+    "count_difference": 1,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": [
+      3
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003831.jpg",
+    "gt_count": 9,
+    "pred_count": 9,
+    "count_difference": 0,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003832.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003834.jpg",
+    "gt_count": 3,
+    "pred_count": 8,
+    "count_difference": 5,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003847.jpg",
+    "gt_count": 4,
+    "pred_count": 5,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      6
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003862.jpg",
+    "gt_count": 5,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003867.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003874.jpg",
+    "gt_count": 1,
+    "pred_count": 4,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003879.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003884.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003891.jpg",
+    "gt_count": 4,
+    "pred_count": 5,
+    "count_difference": 1,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003899.jpg",
+    "gt_count": 3,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [
+      0
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003921.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      0
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003927.jpg",
+    "gt_count": 7,
+    "pred_count": 11,
+    "count_difference": 4,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003929.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003933.jpg",
+    "gt_count": 3,
+    "pred_count": 3,
+    "count_difference": 0,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003941.jpg",
+    "gt_count": 5,
+    "pred_count": 11,
+    "count_difference": 6,
+    "missing_classes": [],
+    "unexpected_classes": [
+      10
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003947.jpg",
+    "gt_count": 5,
+    "pred_count": 13,
+    "count_difference": 8,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1,
+      6,
+      10
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003968.jpg",
+    "gt_count": 6,
+    "pred_count": 9,
+    "count_difference": 3,
+    "missing_classes": [
+      7
+    ],
+    "unexpected_classes": [
+      1,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003979.jpg",
+    "gt_count": 4,
+    "pred_count": 5,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003983.jpg",
+    "gt_count": 6,
+    "pred_count": 8,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00003989.jpg",
+    "gt_count": 7,
+    "pred_count": 11,
+    "count_difference": 4,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004008.jpg",
+    "gt_count": 3,
+    "pred_count": 7,
+    "count_difference": 4,
+    "missing_classes": [
+      7
+    ],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004031.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      6
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004033.jpg",
+    "gt_count": 2,
+    "pred_count": 7,
+    "count_difference": 5,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004042.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0,
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004081.jpg",
+    "gt_count": 4,
+    "pred_count": 5,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004082.jpg",
+    "gt_count": 12,
+    "pred_count": 19,
+    "count_difference": 7,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004088.jpg",
+    "gt_count": 4,
+    "pred_count": 6,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004112.jpg",
+    "gt_count": 7,
+    "pred_count": 9,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004114.jpg",
+    "gt_count": 15,
+    "pred_count": 21,
+    "count_difference": 6,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004130.jpg",
+    "gt_count": 4,
+    "pred_count": 7,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1,
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004133.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004147.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004152.jpg",
+    "gt_count": 17,
+    "pred_count": 25,
+    "count_difference": 8,
+    "missing_classes": [],
+    "unexpected_classes": [
+      6
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004178.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004189.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004209.jpg",
+    "gt_count": 4,
+    "pred_count": 10,
+    "count_difference": 6,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1,
+      2,
+      4,
+      9
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004213.jpg",
+    "gt_count": 3,
+    "pred_count": 6,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2,
+      3,
+      9
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004249.jpg",
+    "gt_count": 5,
+    "pred_count": 7,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004260.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004268.jpg",
+    "gt_count": 11,
+    "pred_count": 13,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2,
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004272.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004291.jpg",
+    "gt_count": 7,
+    "pred_count": 12,
+    "count_difference": 5,
+    "missing_classes": [
+      1,
+      2
+    ],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004297.jpg",
+    "gt_count": 9,
+    "pred_count": 12,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      4
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004298.jpg",
+    "gt_count": 3,
+    "pred_count": 10,
+    "count_difference": 7,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004321.jpg",
+    "gt_count": 7,
+    "pred_count": 11,
+    "count_difference": 4,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004323.jpg",
+    "gt_count": 6,
+    "pred_count": 8,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004325.jpg",
+    "gt_count": 11,
+    "pred_count": 16,
+    "count_difference": 5,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004337.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004346.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      9
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004348.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [
+      3
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004368.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004387.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004408.jpg",
+    "gt_count": 3,
+    "pred_count": 5,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004430.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      7
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004448.jpg",
+    "gt_count": 1,
+    "pred_count": 4,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004451.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004469.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004472.jpg",
+    "gt_count": 7,
+    "pred_count": 11,
+    "count_difference": 4,
+    "missing_classes": [
+      6,
+      7
+    ],
+    "unexpected_classes": [
+      3
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004491.jpg",
+    "gt_count": 2,
+    "pred_count": 4,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004524.jpg",
+    "gt_count": 4,
+    "pred_count": 4,
+    "count_difference": 0,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004525.jpg",
+    "gt_count": 8,
+    "pred_count": 9,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004537.jpg",
+    "gt_count": 20,
+    "pred_count": 23,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004539.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004542.jpg",
+    "gt_count": 10,
+    "pred_count": 12,
+    "count_difference": 2,
+    "missing_classes": [
+      2,
+      7
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004544.jpg",
+    "gt_count": 22,
+    "pred_count": 63,
+    "count_difference": 41,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004558.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004573.jpg",
+    "gt_count": 20,
+    "pred_count": 24,
+    "count_difference": 4,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004577.jpg",
+    "gt_count": 2,
+    "pred_count": 6,
+    "count_difference": 4,
+    "missing_classes": [],
+    "unexpected_classes": [
+      10
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004581.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      9
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004587.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004588.jpg",
+    "gt_count": 4,
+    "pred_count": 10,
+    "count_difference": 6,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2,
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004591.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004611.jpg",
+    "gt_count": 4,
+    "pred_count": 7,
+    "count_difference": 3,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      2,
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004616.jpg",
+    "gt_count": 2,
+    "pred_count": 5,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0,
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004618.jpg",
+    "gt_count": 7,
+    "pred_count": 11,
+    "count_difference": 4,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004623.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004643.jpg",
+    "gt_count": 9,
+    "pred_count": 10,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004649.jpg",
+    "gt_count": 3,
+    "pred_count": 5,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004661.jpg",
+    "gt_count": 5,
+    "pred_count": 5,
+    "count_difference": 0,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004673.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      6
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004718.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004719.jpg",
+    "gt_count": 8,
+    "pred_count": 11,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004734.jpg",
+    "gt_count": 3,
+    "pred_count": 6,
+    "count_difference": 3,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": [
+      1,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004765.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004766.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004800.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004803.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004805.jpg",
+    "gt_count": 3,
+    "pred_count": 6,
+    "count_difference": 3,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": [
+      8,
+      10
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004810.jpg",
+    "gt_count": 11,
+    "pred_count": 20,
+    "count_difference": 9,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004812.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004813.jpg",
+    "gt_count": 4,
+    "pred_count": 6,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004814.jpg",
+    "gt_count": 3,
+    "pred_count": 5,
+    "count_difference": 2,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": [
+      6
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004827.jpg",
+    "gt_count": 2,
+    "pred_count": 6,
+    "count_difference": 4,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004844.jpg",
+    "gt_count": 4,
+    "pred_count": 7,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004852.jpg",
+    "gt_count": 3,
+    "pred_count": 8,
+    "count_difference": 5,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004875.jpg",
+    "gt_count": 6,
+    "pred_count": 16,
+    "count_difference": 10,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004885.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004898.jpg",
+    "gt_count": 4,
+    "pred_count": 6,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004903.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      6
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004918.jpg",
+    "gt_count": 2,
+    "pred_count": 4,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004926.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004952.jpg",
+    "gt_count": 2,
+    "pred_count": 5,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004966.jpg",
+    "gt_count": 1,
+    "pred_count": 3,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      3
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00004984.jpg",
+    "gt_count": 8,
+    "pred_count": 12,
+    "count_difference": 4,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005001.jpg",
+    "gt_count": 4,
+    "pred_count": 12,
+    "count_difference": 8,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2,
+      4,
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005004.jpg",
+    "gt_count": 3,
+    "pred_count": 3,
+    "count_difference": 0,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005018.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005021.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005041.jpg",
+    "gt_count": 9,
+    "pred_count": 13,
+    "count_difference": 4,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005047.jpg",
+    "gt_count": 20,
+    "pred_count": 35,
+    "count_difference": 15,
+    "missing_classes": [
+      5,
+      9
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005050.jpg",
+    "gt_count": 5,
+    "pred_count": 7,
+    "count_difference": 2,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005057.jpg",
+    "gt_count": 4,
+    "pred_count": 5,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005062.jpg",
+    "gt_count": 1,
+    "pred_count": 0,
+    "count_difference": 1,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005064.jpg",
+    "gt_count": 2,
+    "pred_count": 4,
+    "count_difference": 2,
+    "missing_classes": [
+      1,
+      9
+    ],
+    "unexpected_classes": [
+      0,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005081.jpg",
+    "gt_count": 5,
+    "pred_count": 10,
+    "count_difference": 5,
+    "missing_classes": [
+      7
+    ],
+    "unexpected_classes": [
+      2,
+      4
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005093.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005100.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005107.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005132.jpg",
+    "gt_count": 2,
+    "pred_count": 2,
+    "count_difference": 0,
+    "missing_classes": [
+      3
+    ],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005142.jpg",
+    "gt_count": 1,
+    "pred_count": 4,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005182.jpg",
+    "gt_count": 3,
+    "pred_count": 11,
+    "count_difference": 8,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005189.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005192.jpg",
+    "gt_count": 1,
+    "pred_count": 2,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005196.jpg",
+    "gt_count": 5,
+    "pred_count": 8,
+    "count_difference": 3,
+    "missing_classes": [
+      9
+    ],
+    "unexpected_classes": [
+      2,
+      4
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005198.jpg",
+    "gt_count": 2,
+    "pred_count": 4,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005254.jpg",
+    "gt_count": 2,
+    "pred_count": 4,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005276.jpg",
+    "gt_count": 6,
+    "pred_count": 3,
+    "count_difference": 3,
+    "missing_classes": [
+      3,
+      10
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005285.jpg",
+    "gt_count": 2,
+    "pred_count": 3,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005292.jpg",
+    "gt_count": 27,
+    "pred_count": 30,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      10
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005317.jpg",
+    "gt_count": 4,
+    "pred_count": 6,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005318.jpg",
+    "gt_count": 9,
+    "pred_count": 12,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005324.jpg",
+    "gt_count": 2,
+    "pred_count": 11,
+    "count_difference": 9,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005342.jpg",
+    "gt_count": 7,
+    "pred_count": 8,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005346.jpg",
+    "gt_count": 6,
+    "pred_count": 10,
+    "count_difference": 4,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005354.jpg",
+    "gt_count": 2,
+    "pred_count": 5,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005367.jpg",
+    "gt_count": 2,
+    "pred_count": 4,
+    "count_difference": 2,
+    "missing_classes": [
+      7
+    ],
+    "unexpected_classes": [
+      4,
+      9
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005385.jpg",
+    "gt_count": 1,
+    "pred_count": 1,
+    "count_difference": 0,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005421.jpg",
+    "gt_count": 8,
+    "pred_count": 7,
+    "count_difference": 1,
+    "missing_classes": [
+      1,
+      2
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005425.jpg",
+    "gt_count": 11,
+    "pred_count": 11,
+    "count_difference": 0,
+    "missing_classes": [
+      2
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005435.jpg",
+    "gt_count": 6,
+    "pred_count": 15,
+    "count_difference": 9,
+    "missing_classes": [],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005450.jpg",
+    "gt_count": 5,
+    "pred_count": 9,
+    "count_difference": 4,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": [
+      1,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005469.jpg",
+    "gt_count": 3,
+    "pred_count": 4,
+    "count_difference": 1,
+    "missing_classes": [
+      0
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005476.jpg",
+    "gt_count": 6,
+    "pred_count": 19,
+    "count_difference": 13,
+    "missing_classes": [
+      6
+    ],
+    "unexpected_classes": [
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005515.jpg",
+    "gt_count": 5,
+    "pred_count": 6,
+    "count_difference": 1,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005526.jpg",
+    "gt_count": 7,
+    "pred_count": 17,
+    "count_difference": 10,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005549.jpg",
+    "gt_count": 1,
+    "pred_count": 4,
+    "count_difference": 3,
+    "missing_classes": [],
+    "unexpected_classes": [
+      0,
+      2,
+      7
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005604.jpg",
+    "gt_count": 4,
+    "pred_count": 8,
+    "count_difference": 4,
+    "missing_classes": [],
+    "unexpected_classes": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005621.jpg",
+    "gt_count": 4,
+    "pred_count": 15,
+    "count_difference": 11,
+    "missing_classes": [
+      5
+    ],
+    "unexpected_classes": [
+      1,
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005631.jpg",
+    "gt_count": 3,
+    "pred_count": 3,
+    "count_difference": 0,
+    "missing_classes": [
+      1
+    ],
+    "unexpected_classes": []
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005637.jpg",
+    "gt_count": 4,
+    "pred_count": 6,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  },
+  {
+    "image_path": "C:\\Material\\Repo\\Projects\\Capstone_1\\Part_1\\model_training\\data\\yolo\\images\\test\\00005646.jpg",
+    "gt_count": 6,
+    "pred_count": 8,
+    "count_difference": 2,
+    "missing_classes": [],
+    "unexpected_classes": [
+      2
+    ]
+  }
+]

@@ -1,0 +1,3 @@
+Experiment,Best Epoch,Precision,Recall,mAP50,mAP50-95
+Baseline — 640px,64,0.71944,0.66837,0.6971,0.51457
+EXP_01 — 768px,37,0.72477,0.61716,0.65233,0.4809
